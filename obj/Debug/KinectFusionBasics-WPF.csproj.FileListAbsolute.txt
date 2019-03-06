@@ -1,0 +1,20 @@
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\bin\Debug\KinectFusion180_32.dll
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\bin\Debug\KinectFusion180_64.dll
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\bin\Debug\KinectFusionBasics-WPF.exe
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\bin\Debug\KinectFusionBasics-WPF.pdb
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.pdb
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\obj\Debug\KinectFusionBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\obj\Debug\KinectFusionBasics-WPF_MarkupCompile.cache
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\obj\Debug\KinectFusionBasics-WPF.g.resources
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.KinectFusionBasics.Properties.Resources.resources
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\obj\Debug\KinectFusionBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\obj\Debug\KinectFusionBasics-WPF.exe
+C:\Users\Inatan\Desktop\KinectFusionBasics-WPF\obj\Debug\KinectFusionBasics-WPF.pdb
+C:\Users\Inatan\Desktop\KinectFusion by tan\obj\Debug\KinectFusionBasics-WPF.exe
+C:\Users\Inatan\Desktop\KinectFusion by tan\obj\Debug\KinectFusionBasics-WPF.pdb
